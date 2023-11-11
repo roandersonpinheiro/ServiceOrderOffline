@@ -1,4 +1,4 @@
-package com.example.androidboilerplate
+package com.roanderson.serviceorder
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
