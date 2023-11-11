@@ -1,4 +1,4 @@
-package com.example.androidboilerplate.ui.theme
+package com.roanderson.serviceorder.ui.theme
 
 import android.app.Activity
 import android.os.Build

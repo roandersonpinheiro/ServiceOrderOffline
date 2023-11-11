@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.androidboilerplate"
+    namespace = "com.roanderson.serviceorder"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.androidboilerplate"
+        applicationId = "com.roanderson.serviceorder"
         minSdk = 33
         targetSdk = 34
         versionCode = 1

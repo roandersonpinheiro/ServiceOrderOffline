@@ -1,4 +1,4 @@
-package com.example.androidboilerplate.ui.theme
+package com.roanderson.serviceorder.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
